@@ -1,12 +1,12 @@
-### Hi, Elisha Bwilukiro! 👋
+## Hi, Elisha Bwilukiro! 👋
 
 Software Engineer with a background in Computer Science, focused on designing and building scalable, maintainable systems. I have a strong interest in backend architecture, system efficiency, and delivering solutions that address real-world problems.
 
-### 💻 Software Engineer • FullStack Developer • Educator • Streamer • Creator
+## 💻 Software Engineer • FullStack Developer • Educator • Streamer • Creator
 
 Dedicated to building high-impact applications and empowering the developer community. Whether I’m designing scalable architectures or streaming live coding sessions, my goal is always the same: build cool things and lift others up along the way.
 
-### 🧠 Core Skills
+## 🧠 Core Skills
 - Semantic HTML, modern CSS, and responsive layout systems
 - Accessibility and SEO best practices
 - Vanilla JavaScript and frontend workflows
